@@ -37,7 +37,8 @@ header li a{
 
     .articles article img {
         /*height: 200px;*/
-        width: 60%;
+        width: 70%
+        ;
     }
 
     .articles article{
